@@ -13,7 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=intxdv&icon=0&color=0)](https://visitcount.itsvg.in)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
