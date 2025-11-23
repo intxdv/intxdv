@@ -8,6 +8,7 @@
 **This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.**
 
 <div align="center">
+  
 ---
 
 <picture>
