@@ -1,17 +1,10 @@
 <div align="center">
   
-# **👋 Hi, I'm Taki!**
+# **😸 Hi, I'm Taki—タキ!**
 
-**🎓 Computer Science Student @ Undip**  
-**🌱 Learning Web Development 🌐**  
-**😸 Cat lover (with allergies, unfortunately!)**
+**I’m a Computer Science student at Undip currently exploring Web Development as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I’m a devoted cat lover—despite being ironically allergic to them😿 This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.**
 
 ---
-
-
-
-## GitHub Stat
-</div>
 
 <!-- Overall Stats - Adaptive Theme -->
 <picture>
@@ -19,6 +12,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </picture>
+<br>
 
 <!-- Streak Stats - Adaptive Theme -->
 <picture>
@@ -27,12 +21,13 @@
   <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false" />
 </picture>
 
-<!-- Top Languages - Adaptive Theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </picture>
+
+</div>
 
 
 <div align="center">
