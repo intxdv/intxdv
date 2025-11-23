@@ -24,14 +24,14 @@
   
 ## **GitHub Stats**
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=intxdv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=intxdv&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1" />
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=intxdv&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </picture>
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <!-- Overall Stats - Adaptive Theme -->
 <picture>
@@ -54,7 +54,7 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </picture>
 
-## 🐍 Contribution Graph
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake-dark.svg" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 🎵 Currently Listening to on Spotify
+### 🎵 Currently Listening to on Spotify
 
 <!-- Adaptive Spotify Widget -->
 <picture>
