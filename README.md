@@ -12,17 +12,18 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=dark&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false" />
+  <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false" />
 </picture>
 <br>
 
 <!-- Streak Stats - Adaptive Theme -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=dark&hide_border=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false" />
-  <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </picture>
 
 <picture>
