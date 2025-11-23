@@ -1,11 +1,13 @@
 <div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBpc3V3ZmhmcXlqaDhyYTk3cWsyOXA2Y3pza2lwZTlvMGhrdXNvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNlLqRY23XBjW/giphy.gif" width="100px" height="100px">
   
-# **😸 Hi, I'm Taki—タキ!**
+# **Hi, I'm Taki—タキ!** 
+
 
 </div>
 
-**I’m a Computer Science student at Undip currently exploring Web Development as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I’m a devoted cat lover—despite being ironically allergic to them😿** <br>
-**This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.**
+I’m a Computer Science student at Undip currently exploring Web Development as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I’m a devoted cat lover—despite being ironically allergic to them <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWZodmU5eXl2d212cTkzMGZlMDN1dWw2OTdmeXQ2bnJrdHEzajg2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X42IAaDJ42pHqPllGk/giphy.gif" width="20px"> <br>
+This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.
 
 <div align="center">
   
@@ -53,6 +55,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" />
   <img alt="Spotify Now Playing" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </picture>
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjU2Y3F5M3NydHhxb2FsbmZldjVxeXYzOHdzd2pwZThodDJ2ejg1NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1c9ltJnlPKZ4jhDRpw/giphy.gif" width="200px" height="200px">
 
 ![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/018d4b0c-b9e6-4fa1-af78-163b034b4a38.svg)](https://wakatime.com/@intxdv)&nbsp;
