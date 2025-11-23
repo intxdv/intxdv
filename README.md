@@ -7,11 +7,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
+  <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
+</picture>
 
 
 
