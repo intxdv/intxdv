@@ -8,10 +8,10 @@
 
 ---
 
-</div>
 
 
 ## GitHub Stat
+</div>
 
 <!-- Overall Stats - Adaptive Theme -->
 <picture>
