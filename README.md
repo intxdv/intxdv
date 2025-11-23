@@ -9,10 +9,9 @@
 ---
 
 </div>
-<div align="center">
 
 
-### GitHub Stat
+## GitHub Stat
 
 <!-- Overall Stats - Adaptive Theme -->
 <picture>
@@ -36,13 +35,13 @@
 </picture>
 
 
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
   <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
 </picture>
-
----
 
 
 <!-- Adaptive Spotify Widget -->
