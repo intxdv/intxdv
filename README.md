@@ -2,7 +2,9 @@
   
 # **😸 Hi, I'm Taki—タキ!**
 
-**I’m a Computer Science student at Undip currently exploring Web Development as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I’m a devoted cat lover—despite being ironically allergic to them😿 This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.**
+**I’m a Computer Science student at Undip currently exploring Web Development as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I’m a devoted cat lover—despite being ironically allergic to them😿**
+
+**This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.**
 
 ---
 
