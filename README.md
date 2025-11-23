@@ -26,12 +26,6 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</picture>
-
 </div>
 
 
@@ -48,6 +42,11 @@
 <br>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</picture>
 <!-- Adaptive Spotify Widget -->
 <picture>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
