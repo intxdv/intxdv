@@ -2,13 +2,15 @@
   
 # **😸 Hi, I'm Taki—タキ!**
 
+</div>
+
 **I’m a Computer Science student at Undip currently exploring Web Development as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I’m a devoted cat lover—despite being ironically allergic to them😿**
 
 **This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.**
 
+<div align="center">
 ---
 
-<!-- Overall Stats - Adaptive Theme -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
