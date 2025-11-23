@@ -7,7 +7,7 @@
     <td width="70%" align="left">
       <h1 style="font-size: 20.0em; margin: 0;">
         <b>Hi,<b> <br>
-        <b>I'm Taki—タキ!<b></h1>
+        <b>I'm Taki—タキ desu!<b></h1>
     </td>
   </tr>
 </table>
