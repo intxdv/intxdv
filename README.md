@@ -2,9 +2,9 @@
   
 # **👋 Hi, I'm Taki!**
 
-### 🎓 Computer Science Student @ Undip
-### 🌱 Learning Web Development 🌐
-### 😸 Cat lover (with allergies, unfortunately!)
+**🎓 Computer Science Student @ Undip**  
+**🌱 Learning Web Development 🌐**  
+**😸 Cat lover (with allergies, unfortunately!)**
 
 ---
 
@@ -22,7 +22,7 @@
 <div align="center">
 
   
-# **GitHub Stats**
+## **GitHub Stats**
 
 ## 🏆 GitHub Trophies
 <picture>
@@ -66,9 +66,12 @@
 
 ## 🎵 Currently Listening to on Spotify
 
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true)
+<!-- Adaptive Spotify Widget -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <img alt="Spotify Now Playing" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+</picture>
 
 </div>
 
