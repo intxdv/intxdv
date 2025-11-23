@@ -40,7 +40,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
@@ -55,6 +54,7 @@
   <img alt="Spotify Now Playing" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </picture>
 
+![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)&nbsp;
+[![Wakatime](https://wakatime.com/badge/user/018d4b0c-b9e6-4fa1-af78-163b034b4a38.svg)](https://wakatime.com/@intxdv)&nbsp;
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
