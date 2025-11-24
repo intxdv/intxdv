@@ -2,7 +2,23 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="30%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBpc3V3ZmhmcXlqaDhyYTk3cWsyOXA2Y3pza2lwZTlvMGhrdXNvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNlLqRY23XBjW/giphy.gif" width="120px" height="120px">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/hoppip-cat-white.gif"
+          style="width: 175px;"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/hoppip-cat-black.gif"
+          style="width: 175px;"
+        />
+        <img
+          alt="hoppip cat"
+          src="https://raw.githubusercontent.com/intxdv/intxdv/output/hoppip-cat-black.gif"
+          style="width: 175px;"
+        />
+      </picture>
     </td>
     <td width="70%" align="left">
       <picture>
@@ -56,9 +72,18 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+        />
+        <img 
+          alt="GitHub Stats" 
+          src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+        />
       </picture>
     </td>
     <td width="50%" align="center">
