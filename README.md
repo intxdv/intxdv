@@ -82,7 +82,6 @@
 
 <br>
 
-
 <!-- LINE 4: GitHub Stats Kiri, Streak Kanan -->
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -90,15 +89,15 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" 
         />
         <img 
-          alt="GitHub Stats" 
-          src="https://github-readme-stats.vercel.app/api?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" 
+          alt="Taki's GitHub Stats" 
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" 
         />
       </picture>
     </td>
