@@ -52,7 +52,23 @@
       </p>
     </td>
     <td width="25%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJwMnQ3cjVxeGtkeDZyMXBvOG9oNWVidmcwMGZxcHlnOXdxNmFqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif" width="175px" height="175px">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://media.giphy.com/media/7LnX5STTmmNiQOfXLt/giphy.gif"
+          style="width: 175px;"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://media.giphy.com/media/oMoQTMvKzxVm2PP4Qh/giphy.gif"
+          style="width: 175px;"
+        />
+        <img
+          alt="hoppip cat"
+          src="https://media.giphy.com/media/oMoQTMvKzxVm2PP4Qh/giphy.gif"
+          style="width: 175px;"
+        />
+      </picture>
     </td>
   </tr>
 </table>
@@ -88,9 +104,18 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=tokyonight&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" />
-        <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" />
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=tokyonight&hide_border=true" 
+        />
+        <source 
+          media="(prefers-color-scheme: light)" 
+          srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" 
+        />
+        <img 
+          alt="GitHub Streak Stats" 
+          src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" 
+        />
       </picture>
     </td>
   </tr>
@@ -185,17 +210,17 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs1cjR5OGJrcG00OHoxbTN4ODV4cDIycW5mMWxxNjR0bXpucTRiYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ym6PmLonLGfv2/giphy.gif"
+      srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51djhiYWg1NXpoOGd0bzR4aDk2cmQzYTY2djNpZGg3YjRpcGp0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif"
       style="width: 400px;"
     />
     <source
       media="(prefer-color-scheme: light)"
-      scrset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR4MXZlYzA0NTI5OGJocjg2OGR0bnIxc2V2c3plc3Q5c2k4dmppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omHPYZttAVAAw/giphy.gif"
+      scrset="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG0zMTMyZW4zanB6OW96YnJudGsxdTBxamE2cWFraHF4OG5kdmk3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif"
       style="width: 250px;"
     />
     <img
       alt="Tengkyu dah mampir :)"
-      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR4MXZlYzA0NTI5OGJocjg2OGR0bnIxc2V2c3plc3Q5c2k4dmppYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/omHPYZttAVAAw/giphy.gif"
+      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG0zMTMyZW4zanB6OW96YnJudGsxdTBxamE2cWFraHF4OG5kdmk3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif"
       style="width: 250px;"
     />
   </picture>
