@@ -5,17 +5,17 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/hoppip-cat-white.gif"
+          srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc1NHRqM3NwbTQ0dGx0ZzBkM3Z6ZDhqcm9zemtpOGdkM3FreGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNlLqRY23XBjW/giphy.gif"
           style="width: 175px;"
         />
         <source
           media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/hoppip-cat-black.gif"
+          srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc1NHRqM3NwbTQ0dGx0ZzBkM3Z6ZDhqcm9zemtpOGdkM3FreGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNlLqRY23XBjW/giphy.gif"
           style="width: 175px;"
         />
         <img
           alt="hoppip cat"
-          src="https://raw.githubusercontent.com/intxdv/intxdv/output/hoppip-cat-black.gif"
+          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc1NHRqM3NwbTQ0dGx0ZzBkM3Z6ZDhqcm9zemtpOGdkM3FreGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YNlLqRY23XBjW/giphy.gif"
           style="width: 175px;"
         />
       </picture>
