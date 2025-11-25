@@ -231,7 +231,6 @@
 <!-- LINE 8: Visitor & Wakatime -->
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)&nbsp;
-[![Wakatime](https://wakatime.com/badge/user/018d4b0c-b9e6-4fa1-af78-163b034b4a38.svg)](https://wakatime.com/@intxdv)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)
 
 </div>
