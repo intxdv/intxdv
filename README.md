@@ -160,7 +160,7 @@
 </div>
 
 <!-- LINE 6: Most Used Lang Kiri, Spotify Kanan -->
-<div align="center">
+<!-- <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
@@ -199,9 +199,25 @@
     </td>
   </tr>
 </table>
-
+</div> -->
+<div align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
+        <picture>
+          <source 
+            media="(prefers-color-scheme: dark)" 
+            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+          />
+          <source 
+            media="(prefers-color-scheme: light)" 
+            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+          />
+          <img 
+            alt="Spotify Now Playing" 
+            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+          />
+        </picture>
+      </a>
 </div>
-
 <br>
 
 <!-- LINE 7: GIF -->
