@@ -160,22 +160,22 @@
 </div>
 
 <!-- LINE 6: Most Used Lang Kiri, Spotify Kanan -->
-<!-- <div align="center">
+<div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=intxdv&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" 
         />
         <source 
           media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=intxdv&langs_count=8&layout=compact&hide_border=true&theme=default"
         />
         <img 
           alt="Top Languages" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=intxdv&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=intxdv&langs_count=8&layout=compact&hide_border=true&theme=default" 
         />
       </picture>
     </td>
@@ -199,8 +199,10 @@
     </td>
   </tr>
 </table>
-</div> -->
-<div align="center">
+</div>
+
+
+<!-- <div align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
         <picture>
           <source 
@@ -217,8 +219,10 @@
           />
         </picture>
       </a>
-</div>
+</div> -->
 <br>
+
+
 
 <!-- LINE 7: GIF -->
 <div align="center">
