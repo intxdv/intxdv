@@ -160,7 +160,7 @@
 </div>
 
 <!-- LINE 6: Most Used Lang Kiri, Spotify Kanan -->
-<div align="center">
+<!-- <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
@@ -199,10 +199,10 @@
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
-
-<!-- <div align="center">
+<!-- LINE 6 : Alternatif, cuma show spotify -->
+<div align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
         <picture>
           <source 
@@ -219,7 +219,7 @@
           />
         </picture>
       </a>
-</div> -->
+</div>
 <br>
 
 
