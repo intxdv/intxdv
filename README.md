@@ -229,17 +229,17 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51djhiYWg1NXpoOGd0bzR4aDk2cmQzYTY2djNpZGg3YjRpcGp0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif"
+      srcset="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG0zMTMyZW4zanB6OW96YnJudGsxdTBxamE2cWFraHF4OG5kdmk3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif"
       style="width: 400px;"
     />
     <source
       media="(prefer-color-scheme: light)"
-      scrset="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG0zMTMyZW4zanB6OW96YnJudGsxdTBxamE2cWFraHF4OG5kdmk3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif"
+      scrset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg4YzdwMmJoZW0yOWRnaXZsNHdpdzI2MGQ1d2dqbTM5eDB2NWIzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDacQqELjb7qBc4/giphy.gif"
       style="width: 250px;"
     />
     <img
       alt="Tengkyu dah mampir :)"
-      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG0zMTMyZW4zanB6OW96YnJudGsxdTBxamE2cWFraHF4OG5kdmk3aSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10I54Pr7nbGrAs/giphy.gif"
+      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg4YzdwMmJoZW0yOWRnaXZsNHdpdzI2MGQ1d2dqbTM5eDB2NWIzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDacQqELjb7qBc4/giphy.gif"
       style="width: 250px;"
     />
   </picture>
