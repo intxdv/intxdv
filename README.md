@@ -248,7 +248,7 @@
 
 <br>
 
-<!-- LINE 8: Visitor & Wakatime -->
+<!-- LINE 8: Visitor Count -->
 <div align="center">
 
 ![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)
