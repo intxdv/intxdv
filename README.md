@@ -47,7 +47,7 @@
   <tr>
     <td width="75%" align="left">
       <p>
-        I'm a Computer Science student at Undip currently exploring Web Development (but AI and friends currently looks interesting too hahaha) as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I'm a devoted cat lover—despite being ironically allergic to them ¯\_(ツ)_/¯ <br><br>
+        I'm a Computer Science student at Undip currently exploring Web and Mobile Dev (but AI and friends currently looks interesting too hahaha) as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I'm a devoted cat lover—despite being ironically allergic to them ¯\_(ツ)_/¯ <br><br>
         This GitHub is where I document my progress, experiments, and the things I build as I steadily grow in the world of technology.
       </p>
     </td>
