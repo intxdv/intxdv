@@ -258,12 +258,12 @@
     />
     <source
       media="(prefer-color-scheme: light)"
-      scrset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg4YzdwMmJoZW0yOWRnaXZsNHdpdzI2MGQ1d2dqbTM5eDB2NWIzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDacQqELjb7qBc4/giphy.gif"
+      scrset="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJjN2N6MW5vYnE2YmJjeWxibWFuYmQ1OTJ3Z3E1ZXkxdzhzeWxucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/czXbsgaiAqWe4/giphy.gif"
       style="width: 250px;"
     />
     <img
       alt="Tengkyu dah mampir :)"
-      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg4YzdwMmJoZW0yOWRnaXZsNHdpdzI2MGQ1d2dqbTM5eDB2NWIzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDacQqELjb7qBc4/giphy.gif"
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJjN2N6MW5vYnE2YmJjeWxibWFuYmQ1OTJ3Z3E1ZXkxdzhzeWxucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/czXbsgaiAqWe4/giphy.gif"
       style="width: 250px;"
     />
   </picture>
