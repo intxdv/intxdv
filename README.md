@@ -82,7 +82,7 @@
 
 <br>
 
-<!-- LINE 4: GitHub Stats Kiri, Streak Kanan -->
+<!-- LINE 4: GitHub Stats Kiri, Streak Kanan
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center">
@@ -120,7 +120,7 @@
   </tr>
 </table>
 
-<!-- Activity Graph & Snake Game -->
+<!-- Activity Graph & Snake Game
 <div align="center">
 <picture>
   <source 
@@ -135,29 +135,53 @@
     alt="GitHub activity graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" 
   />
-</picture>
+</picture> -->
 
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake-dark.svg" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" 
-  />
-  <img 
-    alt="GitHub contribution activity snake animation" 
-    src="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" 
-  />
-</picture>
-
-<br>
-<br>
-<br>
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img width="250" src="https://wsrv.nl/?url=i.pinimg.com/736x/7c/ad/84/7cad8480a437d81c57679e0510f0da35.jpg" alt="Profile Card" style="border-radius: 10px;" />
+      </td>
+      <td align="center" valign="middle" style="padding-left: 15px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+          <img alt="Taki's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+        </picture>
+        <br/>
+        <br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=tokyonight&hide_border=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" />
+          <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center" style="margin-top: 15px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
+    <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
+    <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
+<br>
+<br>
 
 <!-- LINE 6: Most Used Lang Kiri, Spotify Kanan -->
 <!-- <div align="center">
