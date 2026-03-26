@@ -152,9 +152,9 @@
         <br/>
         <br/>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=tokyonight&hide_border=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" />
-          <img alt="GitHub Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=intxdv&theme=tokyonight&hide_border=true&short_numbers=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=intxdv&hide_border=true&short_numbers=true" />
+          <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=intxdv&hide_border=true&short_numbers=true" />
         </picture>
       </td>
     </tr>
