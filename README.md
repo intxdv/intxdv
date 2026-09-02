@@ -82,61 +82,6 @@
 
 <br>
 
-<!-- LINE 4: GitHub Stats Kiri, Streak Kanan
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" 
-        />
-        <img 
-          alt="Taki's GitHub Stats" 
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" 
-        />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=tokyonight&hide_border=true" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" 
-        />
-        <img 
-          alt="GitHub Streak Stats" 
-          src="https://nirzak-streak-stats.vercel.app/?user=intxdv&theme=default&hide_border=true" 
-        />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<!-- Activity Graph & Snake Game
-<div align="center">
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" 
-  />
-  <img 
-    alt="GitHub activity graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" 
-  />
-</picture> -->
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -183,65 +128,23 @@
 <br>
 <br>
 
-<!-- LINE 6: Most Used Lang Kiri, Spotify Kanan -->
-<!-- <div align="center">
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=intxdv&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" 
-        />
-        <source 
-          media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=intxdv&langs_count=8&layout=compact&hide_border=true&theme=default"
-        />
-        <img 
-          alt="Top Languages" 
-          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=intxdv&langs_count=8&layout=compact&hide_border=true&theme=default" 
-        />
-      </picture>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
-        <picture>
-          <source 
-            media="(prefers-color-scheme: dark)" 
-            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-          />
-          <source 
-            media="(prefers-color-scheme: light)" 
-            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-          />
-          <img 
-            alt="Spotify Now Playing" 
-            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-          />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-</div> -->
-
 <!-- LINE 6 : Alternatif, cuma show spotify -->
 <div align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
         <picture>
           <source 
             media="(prefers-color-scheme: dark)" 
-            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+            srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" 
           />
           <source 
             media="(prefers-color-scheme: light)" 
-            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+            srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" 
           />
           <img 
             alt="Spotify Now Playing" 
-            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+            src="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" 
           />
-        </picture>
+        </picture> 
       </a>
 </div>
 <br>
