@@ -125,7 +125,7 @@
 </div>
 
 <br>
-<br>
+<!-- <br> -->
 <br>
 
 <!-- LINE 6 : Alternatif, cuma show spotify -->
