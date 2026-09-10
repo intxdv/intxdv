@@ -106,7 +106,7 @@
   </table>
 </div>
 
-<div align="center" style="margin-top: 15px;">
+<!-- <div align="center" style="margin-top: 15px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
@@ -114,7 +114,7 @@
   </picture>
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <picture>
