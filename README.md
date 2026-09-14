@@ -90,16 +90,16 @@
       </td>
       <td align="center" valign="middle" style="padding-left: 15px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
-          <img alt="Taki's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=selvagant&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=selvagant&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+          <img alt="Taki's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=selvagant&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
         </picture>
         <br/>
         <br/>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=intxdv&theme=tokyonight&hide_border=true&short_numbers=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=intxdv&hide_border=true&short_numbers=true" />
-          <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=intxdv&hide_border=true&short_numbers=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=selvagant&theme=tokyonight&hide_border=true&short_numbers=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=selvagant&hide_border=true&short_numbers=true" />
+          <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=selvagant&hide_border=true&short_numbers=true" />
         </picture>
       </td>
     </tr>
@@ -108,9 +108,9 @@
 
 <!-- <div align="center" style="margin-top: 15px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
-    <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=intxdv&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=selvagant&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=selvagant&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
+    <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=selvagant&bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true" />
   </picture>
 </div>
 
@@ -118,9 +118,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
-    <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/intxdv/intxdv/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selvagant/selvagant/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selvagant/selvagant/output/github-snake.svg" />
+    <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/selvagant/selvagant/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -178,6 +178,6 @@
 <!-- LINE 8: Visitor Count -->
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=selvagant&style=flat&label=visitors)
 
 </div>
