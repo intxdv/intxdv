@@ -48,7 +48,7 @@
     <td width="75%" align="left">
       <p>
         I'm a Computer Science student at Undip currently exploring Web and Mobile Dev (but AI and friends currently looks interesting too hahaha) as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I'm a devoted cat lover—despite being ironically allergic to them ¯\_(ツ)_/¯ <br><br>
-        Welcome to my <b>「Adventure Log」</b>
+        Welcome to my <a href="https://adventure-log-2c0.pages.dev"><b>「Adventure Log」</b></a>
       </p>
     </td>
     <td width="25%" align="center">
