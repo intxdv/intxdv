@@ -13,14 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
-      - name: Generate activity graph
+      # Versi Dark Mode
+      - name: Generate activity graph (Dark)
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: intxdv
-          options: theme=github-dark&area=true&hide_border=true
-          output_path: dist/activity-graph.svg
+          options: bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true
+          output_path: dist/activity-graph-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Versi Light Mode
+      - name: Generate activity graph (Light)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: intxdv
+          options: bg_color=ffffff&color=0080ff&line=adbac7&point=539bf5&area=true&hide_border=true
+          output_path: dist/activity-graph-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish SVG
