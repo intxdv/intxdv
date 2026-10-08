@@ -177,7 +177,5 @@
 
 <!-- LINE 8: Visitor Count -->
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=intxdv&style=flat&label=visitors)
-
+  <img src="https://img.shields.io/badge/Visitors-2k-blue?style=flat-square" alt="Visitors" />
 </div>
