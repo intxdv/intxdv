@@ -2,7 +2,7 @@ name: Update Activity Graph
 
 on:
   schedule:
-    - cron: "0 4,12,20 * * *"
+    - cron: "0 21,5,13 * * *" # 04:00, 12:00, 20:00 WIB (UTC+7)
   workflow_dispatch:
 
 permissions:
