@@ -90,9 +90,9 @@
       </td>
       <td align="center" valign="middle" style="padding-left: 15px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
-          <img alt="Taki's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+          <img alt="Taki's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=intxdv&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
         </picture>
         <br/>
         <br/>
