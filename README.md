@@ -47,7 +47,7 @@
   <tr>
     <td width="75%" align="left">
       <p>
-        I'm a Computer Science student at Undip currently exploring Web and Mobile Dev (but AI and friends currently looks interesting too hahaha) as part of my learning journey. I enjoy experimenting with small projects and picking up new concepts along the way. Outside of academics, I'm a devoted cat lover—despite being ironically allergic to them ¯\_(ツ)_/¯ <br><br>
+        CompSci Student, just a Creative Developer doing the little things, little hobbies, little projects, and more little things. <br><br>
         Welcome to my <b>「<a href="https://selvagant.is-a.dev/">Adventure Log</a>」</b>
       </p>
     </td>
